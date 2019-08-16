@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "White Smart Shoes",
+    "picture": "images/1.jpg",
+    "age": "Smart Casual",
+    "breed": "White",
+    "location": "Synthetic"
+  },
+  {
+    "id": 1,
+    "name": "Black Running Shoes",
+    "picture": "images/2.jpg",
+    "age": "Smart Casual",
+    "breed": "Black",
+    "location": "Mesh"
+  },
+  {
+    "id": 2,
+    "name": "Gray Sports Shoes",
+    "picture": "images/3.jpg",
+    "age": "Sports Shoes",
+    "breed": "Gray",
+    "location": "Mesh"
+  },
+  {
+    "id": 3,
+    "name": "Lace-up Superstar",
+    "picture": "images/4.jpg",
+    "age": "Smart Casual",
+    "breed": "White",
+    "location": "Suede Leather"
+  },
+  {
+    "id": 4,
+    "name": "Woakers Styalish Black Loafer",
+    "picture": "images/5.jpg",
+    "age": "Casual",
+    "breed": "Black",
+    "location": "Synthetic"
+  },
+  {
+    "id": 5,
+    "name": "Bucik Lace-up Formal Shoes",
+    "picture": "images/6.jpg",
+    "age": "Derby",
+    "breed": "Tan",
+    "location": "Synthetic"
+  },
+  {
+    "id": 6,
+    "name": "Black Peshawari Sandals",
+    "picture": "images/7.jpg",
+    "age": "Sandals",
+    "breed": "Black",
+    "location": "Synthetic"
+  },
+  {
+    "id": 7,
+    "name": "Ethnic Kolhapuri Chappal",
+    "picture": "images/8.jpg",
+    "age": "Ethnic Sandal",
+    "breed": "Black",
+    "location": "Fabric"
+  },
+  {
+    "id": 8,
+    "name": "Flip Flops for Diabetic",
+    "picture": "images/9.jpg",
+    "age": "Flip Flops",
+    "breed": " Brown",
+    "location": "EVA"
+  },
+  {
+    "id": 9,
+    "name": "Azotic White Blue Slippers",
+    "picture": "images/10.jpg",
+    "age": "Azotic",
+    "breed": "White",
+    "location": "EVA"
+  },
+  {
+    "id": 10,
+    "name": "Men's Brown Slippers",
+    "picture": "images/11.jpg",
+    "age": "Slippers",
+    "breed": "Brown",
+    "location": "Leather"
+  },
+  {
+    "id": 11,
+    "name": "Aaiken Brown Faux Loafers",
+    "picture": "images/12.jpg",
+    "age": "Loafers",
+    "breed": "Brown",
+    "location": "Faux Leather"
+  },
+  {
+    "id": 12,
+    "name": "Lee Peeter Men's Olive",
+    "picture": "images/13.jpg",
+    "age": "Sandals",
+    "breed": "Olive",
+    "location": "Faux Leather"
+  },
+  {
+    "id": 13,
+    "name": "Essar Lites Casual Sneakers",
+    "picture": "images/14.jpg",
+    "age": "Casual",
+    "breed": "Black",
+    "location": "Fabric"
+  },
+  {
+    "id": 14,
+    "name": "Sports Running Shoes Red",
+    "picture": "images/15.jpg",
+    "age": "Running",
+    "breed": "Red",
+    "location": "Canvas"
+  },
+  {
+    "id": 15,
+    "name": "Blue Pop Grey Orange Shoes",
+    "picture": "images/16.jpg",
+    "age": "Running",
+    "breed": "Orange",
+    "location": "Mesh"
+  }
+]
